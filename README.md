@@ -70,6 +70,7 @@ Make sure your .rspec file in your application's root directory contains the fol
 
 Then run `rspec spec` and enjoy Nyan Cat formatted text output accompanied by the Nyan Cat song by default!
 
+
 **This currently only works on Mac OS X or on Linux (if you have mpg321 or mpg123 installed).**
 
 Using the Nyan Cat Wide Formatter
